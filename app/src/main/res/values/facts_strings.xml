@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="facts_array">
+        <item>Ants stretch when they wake up in the morning.</item>
+        <item>Ostriches can run faster than horses.</item>
+        <item>Slugs have four noses.</item>
+        <item>The state of Florida is bigger than England.</item>
+        <item>Mark Twain didn't graduate from elementary school.</item>
+        <item>If you want something done ask someone busy.</item>
+        <item>On average, it takes 66 days to form a new habit.</item>
+        <item>You are born with 300 bones; by the time you are an adult you will have 206.</item>
+        <item>A quarter has 119 grooves on its edge, a dime has one less groove.</item>
+        <item>Mammoths still walked the earth when the Great Pyramid was being built.</item>
+        <item>More people use blue toothbrushes than red ones.</item>
+        <item>It takes about 8 minutes for light from the Sun to reach Earth.</item>
+        <item>Some bamboo plants can grow almost a meter in just one day.</item>
+        <item>Some penguins can leap 2-3 meters out of the water.</item>
+    </string-array>
+</resources>
